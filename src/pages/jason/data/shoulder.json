@@ -1,0 +1,22 @@
+[
+    {
+        "type": "shoulders",
+        "name": "Shoulder Press"
+    },
+    {
+        "type": "shoulders",
+        "name": "Lateral Raises"
+    },
+    {
+        "type": "shoulders",
+        "name": "Front Raises"
+    },
+    {
+        "type": "shoulders",
+        "name": "Reverse Flyes"
+    },
+    {
+        "type": "shoulders",
+        "name": "Shrugs"
+    }
+]

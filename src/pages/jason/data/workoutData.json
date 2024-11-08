@@ -1,0 +1,67 @@
+{
+    "2023-10-01": [
+      {
+        "type": "push day",
+        "exercises": [
+          { "name": "Bench Press", "sets": 3, "reps": 10 },
+          { "name": "Shoulder Press", "sets": 3, "reps": 12 },
+          { "name": "Tricep Dips", "sets": 3, "reps": 15 }
+        ]
+      }
+    ],
+    "2023-10-02": [
+      {
+        "type": "pull day",
+        "exercises": [
+          { "name": "Pull Ups", "sets": 3, "reps": 8 },
+          { "name": "Bent Over Rows", "sets": 3, "reps": 10 },
+          { "name": "Bicep Curls", "sets": 3, "reps": 12 }
+        ]
+      }
+    ],
+    "2023-10-03": [
+      {
+        "type": "leg day",
+        "exercises": [
+          { "name": "Squats", "sets": 3, "reps": 10 },
+          { "name": "Lunges", "sets": 3, "reps": 12 },
+          { "name": "Leg Press", "sets": 3, "reps": 15 }
+        ]
+      }
+    ],
+    "2023-10-04": [
+      {
+        "type": "rest day",
+        "exercises": []
+      }
+    ],
+    "2023-10-05": [
+      {
+        "type": "abs",
+        "exercises": [
+          { "name": "Crunches", "sets": 3, "reps": 20 },
+          { "name": "Plank", "sets": 3, "duration": "1 min" },
+          { "name": "Leg Raises", "sets": 3, "reps": 15 }
+        ]
+      }
+    ],
+    "2023-10-06": [
+      {
+        "type": "cardio",
+        "exercises": [
+          { "name": "Running", "duration": "30 min" },
+          { "name": "Cycling", "duration": "20 min" }
+        ]
+      }
+    ],
+    "2023-10-07": [
+      {
+        "type": "upper body day",
+        "exercises": [
+          { "name": "Bench Press", "sets": 3, "reps": 10 },
+          { "name": "Pull Ups", "sets": 3, "reps": 8 },
+          { "name": "Shoulder Press", "sets": 3, "reps": 12 }
+        ]
+      }
+    ]
+  }

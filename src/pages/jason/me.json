@@ -1,0 +1,19 @@
+{
+    "Height": 169,
+    "Weight": 68,
+    "BMI": 22.2,
+    "Days_Since_Leg": 1,
+    "Days_Since_Chest": 2,
+    "Days_Since_Arms": 3,
+    "Days_Since_Back": 4,
+    "Days_Since_Abs": 1,
+    "Days_Since_Shoulders": 2,
+    "Leg_Intensity": 7,
+    "Chest_Intensity": 6,
+    "Arm_Intensity": 5,
+    "Back_Intensity": 6,
+    "Abs_Intensity": 5,
+    "Shoulders_Intensity": 6,
+    "Body_Type_mesomorph": 0,
+    "Body_Type_endomorph": 1
+}

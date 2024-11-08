@@ -1,0 +1,8 @@
+{
+    "id": 2,
+    "name": "Apoorva Smith",
+    "restDays": 1,
+    "streak": 5,
+    "dietMaintenance": 15,
+    "lastWorkouts": ["push day", "cardio", "leg day", "rest day", "arm day"]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "cardio",
+        "name": "Running"
+    },
+    {
+        "type": "cardio",
+        "name": "Cycling"
+    },
+    {
+        "type": "cardio",
+        "name": "Jump Rope"
+    },
+    {
+        "type": "cardio",
+        "name": "Rowing"
+    },
+    {
+        "type": "cardio",
+        "name": "Swimming"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "type": "leg day",
+        "name": "Squats"
+    },
+    {
+        "type": "leg day",
+        "name": "Lunges"
+    },
+    {
+        "type": "leg day",
+        "name": "Leg Press"
+    },
+    {
+        "type": "leg day",
+        "name": "Leg Curls"
+    },
+    {
+        "type": "leg day",
+        "name": "Calf Raises"
+    }
+]

@@ -1,0 +1,8 @@
+{
+    "id": 9,
+    "name": "Rajasimha White",
+    "restDays": 2,
+    "streak": 3,
+    "dietMaintenance": 14,
+    "lastWorkouts": ["back day", "chest day", "leg day", "rest day", "abs"]
+}

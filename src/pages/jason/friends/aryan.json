@@ -1,0 +1,8 @@
+{
+    "id": 3,
+    "name": "Sanyam Johnson",
+    "restDays": 4,
+    "streak": 1,
+    "dietMaintenance": 10,
+    "lastWorkouts": ["leg day", "rest day", "push day", "pull day", "abs"]
+}

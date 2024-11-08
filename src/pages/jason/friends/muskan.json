@@ -1,0 +1,8 @@
+{
+    "id": 6,
+    "name": "Anuhya Wilson",
+    "restDays": 1,
+    "streak": 6,
+    "dietMaintenance": 22,
+    "lastWorkouts": ["upper body day", "lower body day", "rest day", "arm day", "abs"]
+}
